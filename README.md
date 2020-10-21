@@ -42,7 +42,7 @@ Low contrast (low saturation) themes for Mattermost, inspired by Zenburn.
 Older theme, using more orange overtones (my employer uses orange in its
 logo, so it fits the "club colours").
 
-![Orangish Zenburnish Theme Preview](/mattermost-zenburnish-orang.png)
+![Orangish Zenburnish Theme Preview](/mattermost-zenburnish-orange.png)
 
 ```
 {
